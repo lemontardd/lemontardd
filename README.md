@@ -1,5 +1,5 @@
 ## LEMONTARDD
-### School: UTD
+School: UTD
 Major: Computer Science
 Year: Sophmore
 
