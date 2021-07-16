@@ -1,7 +1,5 @@
-## CS Student
-### Name: Julia M.
-### Age: 19 years old
-### School: University of Texas at Dallas
+## LEMONTARDD
+### School: UTD
 ### Major: Computer Science
 ### Year: Sophmore
 
