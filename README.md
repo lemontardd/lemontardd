@@ -1,7 +1,7 @@
 ## LEMONTARDD
 ### School: UTD
-### Major: Computer Science
-### Year: Sophmore
+Major: Computer Science
+Year: Sophmore
 
 #### C++: 
 - CS 1336 projects in C++
