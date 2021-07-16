@@ -1,5 +1,9 @@
 ## CS Student
-### Projects made in C++ and Java Script
+### Name: Julia M.
+### Age: 19 years old
+### School: University of Texas at Dallas
+### Major: Computer Science
+### Year: Sophmore
 
 ## C++: 
 - CS 1336 projects in C++
