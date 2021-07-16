@@ -1,7 +1,7 @@
 ###### <div align="center">--------------------------------------------------------------------------------------------------------------</div>
 ## <div align="center">🍋 LEMONTARDD 🍋</div>
 ###### <div align="center">--------------------------------------------------------------------------------------------------------------</div>
-### <div align="center">School: ![UTD](https://www.pinclipart.com/picdir/middle/418-4184480_utd-university-of-texas-at-dallas-arm-emblem.png)</div>
+### <div align="center">School: ![UTD](https://www.vhv.rs/dpng/d/586-5867218_ut-dallas-logo-emblem-hd-png-download.png)</div>
 ### <div align="center">Major: Computer Science</div>
 ### <div align="center">Year: Sophmore</div>
 ###### <div align="center">--------------------------------------------------------------------------------------------------------------</div>
